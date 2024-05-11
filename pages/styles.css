@@ -1,4 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 .header,
 .footer {
     background-color: #1F2937;
+}
+
+.header-body main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
+.header-body .secondary,
+.links {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+button,
+.modal {
+    background-color: #3882F6;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.body2 {
+    background-color: #E5E7EB;
+}
+
+.body2 p {
+    font-size: 36px;
+    font-style: italic;   
+}
+
+img {
+    width: 100px;
+    height: auto;
 }
